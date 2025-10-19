@@ -8,3 +8,6 @@ Packages start 18-10-2025:
 end Packages video;
 
 4. Understanding Pointers === start 19-10-2025:
+    end Pointers on 19-10-2025;
+5. Structs & Custom Type ===> start 19-10-2025:
+    currently finished video 9 -> Structs & Pointers
