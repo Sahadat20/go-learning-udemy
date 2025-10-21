@@ -11,3 +11,5 @@ end Packages video;
     end Pointers on 19-10-2025;
 5. Structs & Custom Type ===> start 19-10-2025:
     currently finished video 9 -> Structs & Pointers
+    started structs project -> 21-10-2025
+    
