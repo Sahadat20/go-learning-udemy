@@ -1,0 +1,1 @@
+interfaces done in structs-project
