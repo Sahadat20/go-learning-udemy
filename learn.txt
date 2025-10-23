@@ -17,3 +17,4 @@ end Packages video;
     start on 21-10-2025
     currently done Embedded interface(6)
     completed 22-10-2025
+7. Arrays, slices, maps completed 23-10-2025
