@@ -18,3 +18,5 @@ end Packages video;
     currently done Embedded interface(6)
     completed 22-10-2025
 7. Arrays, slices, maps completed 23-10-2025
+8. calculator project completed
+9. concurrency done;
